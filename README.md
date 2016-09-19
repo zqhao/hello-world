@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi Humans!
+
+zqhao here, I like programing and thinking.
